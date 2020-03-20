@@ -22,9 +22,12 @@ ui.setupUi(main_window)
 ui.menubar.hide()
 
 data_row_picked = None
+count = 0
 
 
 def pick_abbr():
+    if count > 0:
+        ui.lineEdit.returnPressed.disconnect()
     index = random.randint(0, len(data_table) - 1)
     global data_row_picked
     data_row_picked = data_table[index]
@@ -35,7 +38,9 @@ def pick_abbr():
 
 
 def submit():
-    ui.lineEdit.returnPressed.disconnect(submit)
+    global count
+    count += 1
+    ui.lineEdit.returnPressed.disconnect()
     if ui.lineEdit.text().strip().lower() == data_row_picked[1].lower():
         ui.msg.setText('<p style="color: green">Correct!</p><p>Press enter to go next.')
     else:
