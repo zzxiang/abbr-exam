@@ -1,4 +1,4 @@
-4C,"Customer Value, Cost, Convenience, Communication"
+3,"Customer Value, Cost, Convenience, Communication"
 4P,"Product, Price, Place, Promotion"
 ADSL,Asymmetric Digital Subscriber Line
 APOP,Authenticated Post Office Protocol
@@ -36,3 +36,90 @@ CSF,Critical Success Factor
 CSIRT,Computer Security Incident Response Team
 CSR,Coporate Social Responsibility
 DFD,Data Flow Diagram
+DHCP,Dynamic Host Configuration Protocol
+DLP,Data Loss Prevention
+DMZ,DeMilitarized Zone
+DNS,Domain Name System
+DOA,Data Oriented Approach
+dpi,dots per inch
+DRM,Digital Rights Management
+DSU,Digital Service Unit
+DTP,Desktop Publishing
+EA,Enterprise Architecture
+ERP,Enterprise Resource Planning
+E-R図,Entity Relationship Diagram
+ESSID,Extended Service Set Identifier
+EUC,Extended Unix Code
+FA,Factory Automation
+FMS,Flexible Manufacturing System
+FTTH,Fiber to the Home
+G to B,Government to Business
+GIS,Geographic Information System
+GPS,Global Positioning System
+HRM,Human Resource Management
+IDS,Intrusion Detection System
+IE,Industrial Engineering
+IEC,International Electrotechnical Commission
+IMAP,Internet Message Access Protocol
+IoT,Internet of Things
+IrDA,Infrared Data Association
+ISMS,Information Security Management System
+ISP,Internet Service Provider
+ITIL,Information Technology Infrastructure Library
+JAN,Japanese Article Number
+J-CRAT,Cyber Rescue and Advice Team agaist targeted attack of Japan
+J-CSIP,Initiative for Cyber Security Information sharing Partnership of Japan
+JIS,Japanese Industrial Standards
+JIT,Just in Time
+JSA,Japanese Standards Association
+KGI,Key Goal Indicator
+KPI,Key Performance Indicator
+LOC,Lines of Code
+LPO,Landing Page Optimization
+LPWA,Low Power Wide Area
+LTE,Long Term Evolution
+M&A,Merge & Acquisitions
+MBO（管理）,Management by Objectives
+MBO（統合）,Management Buyout
+MDM,Mobile Device Management
+MIME,Multipurpose Internet Mail Extension
+MNO,Mobile Network Operator
+MOT,Management Of Technology
+MRP,Material Requirements Planning
+MTBF,Mean Time Between Failure
+MTTR,Mean Time To Repair
+MVNO,Mobile Virtual Network Operator
+NAT,Network Address Translation
+NDA,Non Disclosure Agreement
+NFC,Near Field Communication
+NIC,Network Interface Card
+NTP,Network Time Protocol
+OCR,Optical Character Reader
+Off-JT,Off the Job Training
+OJT,On the Job Training
+OR,Operations Research
+OSS,Open Source Software
+PDCA,"Plan, Do, Check, Act"
+PKI,Publick Key Infrastructure
+PL（法）,Product Liability
+PMBOK,Project Management Body of Knowledge
+POA,Process Oriented Approach
+PoC,Proof of Concept
+POP,Post Office Protocol
+POS（システム）,Point Of Sale
+ppi,pixel per inch
+PPM,Product Portfolio Management
+RAD,Rapid Application Development
+RAID,Redundant Arrays of Inexpensive Disks
+RFI,Request For Information
+RFID,Radio Frequency Identification
+RFM（分析）,"Recency, Frequency, Monetary"
+RAT（ツール、長い）,Remote Administration Tool
+RAT（ツール、短い）,Remote Access Tool
+RAT（木馬）,Remote Access Trojan
+RFP,Request For Proposal
+ROA,Return On Assets
+ROE,Return On Equity
+ROI,Return On Investment
+ROM,Read Only Memory
+RPA,Robotic Process Automation
