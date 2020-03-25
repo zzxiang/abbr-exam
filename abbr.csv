@@ -47,7 +47,7 @@ DSU,Digital Service Unit
 DTP,Desktop Publishing
 EA,Enterprise Architecture
 ERP,Enterprise Resource Planning
-E-Rå›³,Entity Relationship Diagram
+E-R‡í,Entity Relationship Diagram
 ESSID,Extended Service Set Identifier
 EUC,Extended Unix Code
 FA,Factory Automation
@@ -79,8 +79,8 @@ LPO,Landing Page Optimization
 LPWA,Low Power Wide Area
 LTE,Long Term Evolution
 M&A,Merge & Acquisitions
-MBOï¼ˆç®¡ç†ï¼‰,Management by Objectives
-MBOï¼ˆçµ±åˆï¼‰,Management Buyout
+MBO£¨¹ÜÀí£©,Management by Objectives
+MBO£¨½yºÏ£©,Management Buyout
 MDM,Mobile Device Management
 MIME,Multipurpose Internet Mail Extension
 MNO,Mobile Network Operator
@@ -101,25 +101,32 @@ OR,Operations Research
 OSS,Open Source Software
 PDCA,"Plan, Do, Check, Act"
 PKI,Publick Key Infrastructure
-PLï¼ˆæ³•ï¼‰,Product Liability
+PL£¨·¨£©,Product Liability
 PMBOK,Project Management Body of Knowledge
 POA,Process Oriented Approach
 PoC,Proof of Concept
 POP,Post Office Protocol
-POSï¼ˆã‚·ã‚¹ãƒ†ãƒ ï¼‰,Point Of Sale
+POS£¨¥·¥¹¥Æ¥à£©,Point Of Sale
 ppi,pixel per inch
 PPM,Product Portfolio Management
 RAD,Rapid Application Development
 RAID,Redundant Arrays of Inexpensive Disks
 RFI,Request For Information
 RFID,Radio Frequency Identification
-RFMï¼ˆåˆ†æï¼‰,"Recency, Frequency, Monetary"
-RATï¼ˆãƒ„ãƒ¼ãƒ«ã€é•·ã„ï¼‰,Remote Administration Tool
-RATï¼ˆãƒ„ãƒ¼ãƒ«ã€çŸ­ã„ï¼‰,Remote Access Tool
-RATï¼ˆæœ¨é¦¬ï¼‰,Remote Access Trojan
+RFM£¨·ÖÎö£©,"Recency, Frequency, Monetary"
+RAT£¨¥Ä©`¥ë¡¢éL¤¤£©,Remote Administration Tool
+RAT£¨¥Ä©`¥ë¡¢¶Ì¤¤£©,Remote Access Tool
+RAT£¨Ä¾ñR£©,Remote Access Trojan
 RFP,Request For Proposal
 ROA,Return On Assets
 ROE,Return On Equity
 ROI,Return On Investment
 ROM,Read Only Memory
 RPA,Robotic Process Automation
+S/MIME,Secure / Multipurpose Internet Mail Extensions
+SCM,Supply Chain Management
+SDN,Software-Defined Networking
+SEO,Search Engine Optimization
+SFA,Sales Force Automation
+SI,System Integration
+SLA,Service Level Agreement
